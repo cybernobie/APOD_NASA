@@ -18,6 +18,7 @@ The APOD Bot provides NASA's Astronomy Picture of the Day (APOD) to users on Tel
 ```bash
 git clone https://github.com/cybernobie/APOD_NASA.git
 cd APOD_NASA
+```
 
 ## 🙌 Contributors
 
