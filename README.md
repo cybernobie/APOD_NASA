@@ -18,3 +18,44 @@ The APOD Bot provides NASA's Astronomy Picture of the Day (APOD) to users on Tel
 ```bash
 git clone https://github.com/cybernobie/APOD_NASA.git
 cd APOD_NASA
+
+## 🙌 Contributors
+
+Thanks to all the wonderful people who have contributed to this project!
+
+[![Contributors](https://img.shields.io/github/contributors/cybernobie/Image-Compressor-Bot?style=for-the-badge)](https://github.com/cybernobie/Image-Compressor-Bot/graphs/contributors)
+
+### 🎉 Our Amazing Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/cybernobie">
+        <img src="https://avatars.githubusercontent.com/cybernobie" width="100" height="100" style="border-radius:50%; object-fit: cover;" alt="Aryan Singh Negi" />
+        <br />
+        <sub><b>Aryan Singh Negi</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/coding-destini">
+        <img src="https://avatars.githubusercontent.com/coding-destini" width="100" height="100" style="border-radius:50%; object-fit: cover;" alt="coding-destini" />
+        <br />
+        <sub><b>Akash Shah</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ektaaa5656">
+        <img src="https://avatars.githubusercontent.com/Ektaaa5656" width="100" height="100" style="border-radius:50%; object-fit: cover;" alt="Ekta Mishra" />
+        <br />
+        <sub><b>Ekta Mishra</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/manshisingh07">
+        <img src="https://avatars.githubusercontent.com/manshisingh07" width="100" height="100" style="border-radius:50%; object-fit: cover;" alt="Manshi Singh" />
+        <br />
+        <sub><b>Manshi Singh</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
