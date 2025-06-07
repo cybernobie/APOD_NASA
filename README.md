@@ -27,4 +27,4 @@ Thanks to all the wonderful people who have contributed to this project!
 [![Contributors](https://img.shields.io/github/contributors/cybernobie/APOD_NASA?style=for-the-badge)](https://github.com/cybernobie/APOD_NASA/graphs/contributors)
 
 ### 🎉 Our Amazing Contributors
-[](https://github.aryansinghnegi.dev/?repo=cybernobie/APOD_NASA)
+[Users](https://github.aryansinghnegi.dev/?repo=cybernobie/APOD_NASA)
